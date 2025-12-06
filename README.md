@@ -1,2 +1,1 @@
-# mega
-https://mega.nz/folder/SVECBbSB#XcrJ3k9B019Pbk_eLcaQOw
+https://postly.ai/tools/youtube-video-downloader?utm_content=playlist-downloader
