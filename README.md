@@ -1,1 +1,1 @@
-nautilus-os.vercel.app
+https://nautilus-os.vercel.app
